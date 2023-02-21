@@ -1,0 +1,162 @@
+.branch{
+    background-image: url('/nice-warehouse-delivery.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+.navigate{
+    float: right;
+    font-size: medium;
+}
+.navigate ul li{
+    list-style-type: none;
+    display: inline-block;
+    justify-content: right;
+    padding: 5px 5px 5px;
+}
+    
+    
+    
+
+.heading{
+    text-align: center;
+    padding-top: 20px;
+    
+}
+.main{
+    display: flex;   
+    justify-content: space-around;
+   float: right;
+   padding-top: 25px; 
+   padding-left: 100px; 
+}
+#brand{
+    border: 1px solid;
+    border-radius: 10px;
+    font-size: small;
+    width: 75%;
+    height: 100px;
+    margin: 5%;
+    background-color: rgb(242, 242, 177);
+    text-align: center;
+}
+#brand2{
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: rgb(233, 233, 177);
+    font-size: small;
+    width: 75%;
+    height: 100px;
+    margin: 5%;
+    text-align: center;
+}
+#brand3{
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: rgb(238, 212, 178);
+    font-size: small;
+    width: 75%;
+    height: 100px; 
+    margin: 5%;  
+    text-align: center;
+}
+.divide{
+    display: flex;   
+    margin-left: 45%;
+    float: right;
+    padding-bottom: 5px;
+    border-top: cadetblue;
+    padding-left: 100px;
+}
+#down{
+    font-size: small;
+    margin: 5%;
+    height: 30%;
+}
+#down2{
+    font-size: small;
+    margin: 5%;   
+}
+#down3{
+    font-size: small;
+    margin: 5%;  
+    border-top: red; 
+}
+.nice{
+    padding-bottom: 200px;
+    text-align: center;
+    margin-top: 1%;    
+}
+.logo img{
+    width: 3%;
+padding: right 400px;
+}
+.co{
+    padding-left: 400px;
+}
+.fi{
+    padding-left: 10px;
+}
+.sm{
+    padding-left: 10px;
+}
+.ri{
+    padding-left: 10px;
+}
+.head{
+    padding-top: 50px;
+    padding-left: 400px;
+}
+.much{
+    padding-left: 400px;
+    margin-right: 10%;   
+}
+#button{
+    background-color: rgb(101, 153, 250);
+    width: 130px;
+    height: 50px;
+    border: 2px solid rgb(114, 163, 255);
+    font-weight: 400;
+}
+.another{
+    width: 200px;
+    height: 50px;
+    background-color:rgb(101, 153, 250);
+    border: solid rgb(114, 163, 255);
+}
+.pa{
+    color: rgb(101, 153, 250);
+}
+.sp{
+    color: rgb(148, 234, 63);
+}
+#line{
+    border: 1px solid blue;
+}
+#line2{
+    border: 1px solid orange;
+}
+#line3{
+    border: 1px solid green;
+}
+
+
+
+
+
+
+    
+    
+    
+
+
+ 
+
+
+
+
+
+
+
+
